@@ -9,8 +9,16 @@ Task
  - If you're new to AI, study "transfer learning" on medium.com - great place to start. Be prepared to clear your calendar for the next year.
  - Download Juypter Notebook to work on a system with a GPU
  - Install tensorflow and keras
-
  
+ The Team:
+ 
+     Ed Gibbs, ePlus
+     Jon Hull, ePlus
+     
+ Mentor:
+   
+     Ben G., Data Scientist, Undisclosed
+      
 nVidia:
 
 The nVidia Jetson Metropolis DeepStream SDK has gstreamer support and multi-stage inferencing. For instance, it'll do object detection, detect a car, then it will feed a secondary classifier that outputs probabilities on make or model, a third layer for color, etc.
