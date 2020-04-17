@@ -7,7 +7,7 @@ We can get away with a single-stage classification by just adding a label and tr
 
 Task
  - If you're new to AI, study "transfer learning" on medium.com - great place to start. Be prepared to clear your calendar for the next year.
- - Download Juypter Notebook to work locally on a system with a GPU\
+ - Download Juypter Notebook to work on a system with a GPU
  - Install tensorflow and keras
 
  
@@ -24,3 +24,8 @@ Online References:
 
 Books:
    https://www.amazon.com/_/dp/1492032646?tag=oreilly20-20
+   
+If you're not familiar with nvidia Jetson, check out: 
+
+   https://www.youtube.com/watch?v=BkZ1n_1F-Cg
+   
