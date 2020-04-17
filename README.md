@@ -1,14 +1,12 @@
 # facemask
 Recognize a person with and without a face mask
 
-Objective: To detect when a person is wearing a mask vs. a person not wearing a mask.
-
 Description: For the purpose of this project, you can imagine a case here where you may want to detect a person, and then classify if that person is wearing a mask or a respirator or nothing at all and take an action based on that decision.
 
 We can get away with a single-stage classification by just adding a label and training set for "masked person", much as imagenet can detect a person already, so a masked person is going to be very similar to a ordinary person, however, I don't imagine it will take all that much training to distinguish the differences that make one masked or not.
 
 Task
- - Study "transfer learning" on medium.com
+ - If you're new to AI, study "transfer learning" on medium.com - great place to start. Be prepared to clear your calendar for the next year.
  - Download Juypter Notebook to work locally on a system with a GPU\
  - Install tensorflow and keras
 
